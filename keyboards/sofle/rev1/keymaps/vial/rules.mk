@@ -11,3 +11,7 @@ QMK_SETTINGS = no
 MOUSEKEY_ENABLE = yes
 COMBO_ENABLE = no
 KEY_OVERRIDE_ENABLE = no
+
+# VIALRGB_ENABLE = yes # vial.json > "lighting": "vialrgb",
+# RGB_MATRIX_ENABLE = yes
+# DYNAMIC_MACRO_ENABLE = yes
